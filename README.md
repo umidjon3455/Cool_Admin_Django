@@ -2,7 +2,7 @@
 
 A Django-based web application for managing university administrative data including faculties, departments, teachers, subjects, groups, and students.
 
-## 📋 Project Overview
+## 📋 Project Overview.
 
 This system provides a comprehensive solution for university administration with the following main features:
 - Faculty and department management
