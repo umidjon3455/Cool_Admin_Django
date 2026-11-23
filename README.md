@@ -75,7 +75,7 @@ The system includes the following main models:
 ## 🛠️ Installation and Setup
 
 ### Prerequisites
-- Python 3.8+
+- Python 3.10+ (required by Django 5.2)
 - pip (Python package manager)
 
 ### Installation Steps
